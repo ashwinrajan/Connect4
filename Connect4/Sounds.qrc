@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Sounds">
+        <file alias="Drop Metal Thing-SoundBible.com-401640954.wav">Resources/Sounds/Drop Metal Thing-SoundBible.com-401640954.wav</file>
+        <file alias="It Follows Soundtrack - 02 Title.mp3">Resources/Sounds/It Follows Soundtrack - 02 Title.mp3</file>
+    </qresource>
+</RCC>

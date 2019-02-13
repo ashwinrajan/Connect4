@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file alias="4row_black.png">Resources/Images/4row_black.png</file>
+        <file alias="4row_black_small.png">Resources/Images/4row_black_small.png</file>
+        <file alias="4row_red.png">Resources/Images/4row_red.png</file>
+        <file alias="4row_red_small.png">Resources/Images/4row_red_small.png</file>
+        <file>Resources/Images/200.jpg</file>
+        <file>Resources/Images/arrow-down-gray-hi.png</file>
+        <file>Resources/Images/Connect4Board.PNG</file>
+        <file>Resources/Images/Connect4Board1.png</file>
+        <file>Resources/Images/connect-four-clipart-1.jpg</file>
+        <file>Resources/Images/down-arrow-circle-hi.png</file>
+        <file>Resources/Images/Instruct.png</file>
+        <file alias="Solid_white.svg.png">Resources/Images/Solid_white.svg.png</file>
+        <file alias="Twitter_question_mark.png">Resources/Images/Twitter_question_mark.png</file>
+        <file alias="winner.png">Resources/Images/winner.png</file>
+        <file alias="stacks_image_764.png">Resources/Images/stacks_image_764.png</file>
+    </qresource>
+</RCC>
